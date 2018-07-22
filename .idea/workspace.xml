@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="611714bd-7bff-47f5-86f2-30161c430e9e" name="Default" comment="" />
+    <list default="true" id="611714bd-7bff-47f5-86f2-30161c430e9e" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/FoundationsOfProgramming/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoundationsOfProgramming/foundationsofprogramming.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,16 +19,7 @@
         <entry file="file://$PROJECT_DIR$/FoundationsOfProgramming/src/stringSplosion.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="stringManipulation.iml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FoundationsOfProgramming/stringManipulation.iml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -36,7 +31,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="485" />
-    <option name="y" value="42" />
+    <option name="y" value="27" />
     <option name="width" value="1245" />
     <option name="height" value="1053" />
   </component>
@@ -46,22 +41,21 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Google Tech Dev Guide" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Google Tech Dev Guide" type="462c0819:PsiDirectoryNode" />
+              <item name="GoogleTechDevGuide" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GoogleTechDevGuide" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Google Tech Dev Guide" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Google Tech Dev Guide" type="462c0819:PsiDirectoryNode" />
+              <item name="GoogleTechDevGuide" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GoogleTechDevGuide" type="462c0819:PsiDirectoryNode" />
               <item name="FoundationsOfProgramming" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Google Tech Dev Guide" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Google Tech Dev Guide" type="462c0819:PsiDirectoryNode" />
+              <item name="GoogleTechDevGuide" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GoogleTechDevGuide" type="462c0819:PsiDirectoryNode" />
               <item name="FoundationsOfProgramming" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -69,8 +63,9 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -150,8 +145,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="485" y="42" width="1245" height="1053" extended-state="0" />
-    <editor active="true" />
+    <frame x="485" y="27" width="1245" height="1053" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -176,9 +170,9 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -187,22 +181,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/FoundationsOfProgramming/src/stringSplosion.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FoundationsOfProgramming/stringManipulation.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FoundationsOfProgramming/stringManipulation.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
@@ -210,6 +190,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoundationsOfProgramming/src/stringSplosion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FoundationsOfProgramming/stringManipulation.iml" />
+    <entry file="file://$PROJECT_DIR$/FoundationsOfProgramming/stringManipulation.iml" />
+    <entry file="file://$PROJECT_DIR$/FoundationsOfProgramming/src/stringSplosion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
