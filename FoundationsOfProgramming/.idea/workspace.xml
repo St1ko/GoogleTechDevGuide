@@ -44,10 +44,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="811" />
-    <option name="y" value="46" />
+    <option name="x" value="675" />
+    <option name="y" value="27" />
     <option name="width" value="1245" />
-    <option name="height" value="1112" />
+    <option name="height" value="1053" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -100,7 +100,7 @@
     </configuration>
     <configuration name="stringSplosion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="stringSplosion" />
-      <module name="stringManipulation" />
+      <module name="foundationsofprogramming" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
