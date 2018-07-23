@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79f8b375-4382-4cc9-9b20-98da42499dc4" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/canBalance.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/sumNumbers.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/withoutString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/maxSpan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maxSpan.java" afterDir="false" />
@@ -39,15 +40,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sumNumbers.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="sumNumbers.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sumNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
-              <folding>
-                <element signature="e#682#683#0" expanded="true" />
-                <element signature="e#739#740#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="480">
+              <caret line="32" column="5" lean-forward="true" selection-start-line="24" selection-start-column="4" selection-end-line="32" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="canBalance.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/canBalance.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
         </entry>
@@ -82,6 +88,7 @@
         <option value="$PROJECT_DIR$/src/stringSplosion.java" />
         <option value="$PROJECT_DIR$/src/withoutString.java" />
         <option value="$PROJECT_DIR$/src/sumNumbers.java" />
+        <option value="$PROJECT_DIR$/src/canBalance.java" />
       </list>
     </option>
   </component>
@@ -140,8 +147,8 @@
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="sumNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sumNumbers" />
+    <configuration name="canBalance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="canBalance" />
       <module name="foundationsofprogramming" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
     </configuration>
@@ -185,7 +192,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.sumNumbers" />
+        <item itemvalue="Application.canBalance" />
       </list>
     </recent_temporary>
   </component>
@@ -204,6 +211,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="675" y="27" width="1245" height="1053" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -260,13 +268,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/maxSpan.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="5" selection-start-line="18" selection-start-column="4" selection-end-line="21" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/withoutString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
@@ -280,12 +281,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/sumNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
-          <folding>
-            <element signature="e#682#683#0" expanded="true" />
-            <element signature="e#739#740#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="480">
+          <caret line="32" column="5" lean-forward="true" selection-start-line="24" selection-start-column="4" selection-end-line="32" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/maxSpan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="5" selection-start-line="18" selection-start-column="4" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/canBalance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
