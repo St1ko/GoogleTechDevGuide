@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79f8b375-4382-4cc9-9b20-98da42499dc4" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/sumNumbers.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/withoutString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/maxSpan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/maxSpan.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/stringSplosion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stringSplosion.java" afterDir="false" />
@@ -25,14 +26,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="withoutString.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="withoutString.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/withoutString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="34" column="4" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
+            <state relative-caret-position="540">
+              <caret line="36" selection-start-line="36" selection-end-line="38" selection-end-column="5" />
               <folding>
                 <element signature="e#889#890#0" expanded="true" />
                 <element signature="e#960#961#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sumNumbers.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/sumNumbers.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+              <folding>
+                <element signature="e#809#810#0" expanded="true" />
+                <element signature="e#846#847#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -67,6 +81,7 @@
         <option value="$PROJECT_DIR$/src/maxSpan.java" />
         <option value="$PROJECT_DIR$/src/stringSplosion.java" />
         <option value="$PROJECT_DIR$/src/withoutString.java" />
+        <option value="$PROJECT_DIR$/src/sumNumbers.java" />
       </list>
     </option>
   </component>
@@ -125,8 +140,8 @@
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="withoutString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="withoutString" />
+    <configuration name="sumNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sumNumbers" />
       <module name="foundationsofprogramming" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
     </configuration>
@@ -170,7 +185,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.withoutString" />
+        <item itemvalue="Application.sumNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -255,11 +270,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/withoutString.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="4" selection-start-line="34" selection-start-column="4" selection-end-line="34" selection-end-column="4" />
+        <state relative-caret-position="540">
+          <caret line="36" selection-start-line="36" selection-end-line="38" selection-end-column="5" />
           <folding>
             <element signature="e#889#890#0" expanded="true" />
             <element signature="e#960#961#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sumNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#809#810#0" expanded="true" />
+            <element signature="e#846#847#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -33,7 +33,7 @@ public class withoutString {
         return result;
     }
 
-    
+
     public static void main(String[] args) {
         System.out.println(withoutString("Hello World", "llo"));
     }
