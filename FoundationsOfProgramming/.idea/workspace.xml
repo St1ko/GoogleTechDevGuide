@@ -42,11 +42,11 @@
       <file leaf-file-name="sumNumbers.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/sumNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="405">
+              <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
               <folding>
-                <element signature="e#809#810#0" expanded="true" />
-                <element signature="e#846#847#0" expanded="true" />
+                <element signature="e#682#683#0" expanded="true" />
+                <element signature="e#739#740#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -204,7 +204,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="675" y="27" width="1245" height="1053" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -281,11 +280,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/sumNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="405">
+          <caret line="27" column="1" lean-forward="true" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
           <folding>
-            <element signature="e#809#810#0" expanded="true" />
-            <element signature="e#846#847#0" expanded="true" />
+            <element signature="e#682#683#0" expanded="true" />
+            <element signature="e#739#740#0" expanded="true" />
           </folding>
         </state>
       </provider>
