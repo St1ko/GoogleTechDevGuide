@@ -10,6 +10,7 @@ public class stringSplosion {
 
     public static void main(String[] args) {
        System.out.println(stringSplosion("Test"));
+       System.out.println(stringSplosion("Test").substring(0,4));
     }
 }
 
